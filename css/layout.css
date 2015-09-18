@@ -1,0 +1,28 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+
+}
+img{
+	margin: 50px 180px 0;
+}
+section{
+	width: 100%;
+}
+p{
+	text-align: center;
+	font-family: MicroSoft YaHei;
+}
+a{
+	color: black;
+	text-transform: none;
+}
+a:hover{
+	color: orange;
+}
+video{
+	width: 500px;
+	height: 300px;
+}
